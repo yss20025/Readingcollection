@@ -1,12 +1,11 @@
 '''
 cron: 50 */15 8-22 * * *
 new Env('f人人帮阅读');
-活动入口微信打开：http://ebb.waterkafei.cloud/user/index.html?mid=1694834307044081664
-下载地址：https://www.123pan.com/s/xzeSVv-IHpfv.html
-公告地址：http://175.24.153.42:8881/getmsg?type=rrb
+活动入口微信打开：http://ebb.greenduorou.cloud/user/index.html?mid=1701574827674042368
+下载地址：http://ebb.greenduorou.cloud/user/index.html?mid=1701574827674042368
 
 使用方法：
-1.活动入口,微信打开：http://ebb.waterkafei.cloud/user/index.html?mid=1694834307044081664
+1.活动入口,微信打开：http://ebb.greenduorou.cloud/user/index.html?mid=1701574827674042368
 2.打开活动入口，抓包http://ebb.vinse.cn/api/user/loginByWxauth接口响应体中的 un，uid，token,
 或者http://ebb.vinse.cn/api/user/info接口headers请求头中的 un，uid，token。
 3.青龙环境变量菜单，添加本脚本环境变量
