@@ -1,12 +1,10 @@
 '''
 cron: 30 */15 8-22 * * *
 new Env('f智慧阅读');
-活动入口微信打开：http://mr1694387464645.vdpckoa.cn/oz/index.html?mid=3Q3R692PT
-下载地址：https://www.123pan.com/s/xzeSVv-IHpfv.html
-公告地址：http://175.24.153.42:8881/getmsg?type=zhyd
+活动入口微信打开：http://mr1694523257177.ocmaqjb.cn/oz/index.html?mid=2R8YT62JP
 
 使用方法：
-1.活动入口,微信打开：http://mr1694387464645.vdpckoa.cn/oz/index.html?mid=3Q3R692PT
+1.活动入口,微信打开：http://mr1694523257177.ocmaqjb.cn/oz/index.html?mid=2R8YT62JP
 2.打开活动链接，抓包接口http://u.cocozx.cn/api/oz/info接口的请求体中的un和token参数
 3.青龙环境变量菜单，添加本脚本环境变量
 名称 ：zhyd_config
