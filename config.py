@@ -8,7 +8,7 @@
 '''
 '''
 czgmconfig是充值购买的参数配置列表
-活动入口,微信打开：http://2478987.epghgkvalp.wjbk.25obcxyume.cloud/?p=2478987
+活动入口,微信打开：http://2481263.pld.bdsrf.wiz7bjd6ef07.cloud/page?p=2481263
 打开活动入口，抓包的任意接口cookies中的gfsessionid参数,填入ck。
 单账户填写样式。(这里只是样式，不要填这里)
 czgmconfig = [
@@ -37,7 +37,7 @@ czgmconfig = [
 #########################################################################
 '''
 mtzconfig是美添赚的参数配置列表
-活动入口,微信打开：http://tg.1693182678.api.mengmorwpt2.cn/h5_share/ads/tg?user_id=115772
+活动入口,微信打开：http://51694522809.tt.bendishenghuochwl1.cn/pages/app/daily/daily?user_id=111964
 打开活动入口，抓包的任意接口headers中的Authorization参数，填入ck。
 单账户填写样式(这里只是样式，不要填这里)
 mtzconfig = [
@@ -66,7 +66,7 @@ mtzconfig = [
 #########################################################################
 '''
 xyyconfig是小阅阅的参数配置列表
-活动入口,微信打开：https://wib.quannengjiaoyu.top:10265/yunonline/v1/auth/693f35a37d8da489478562a1feab678f?codeurl=wib.quannengjiaoyu.top:10265&codeuserid=2&time=1693118713
+活动入口,微信打开：https://wi14257.zscit.top:10253/yunonline/v1/auth/6d288b175355d987746598c6c11c0227?codeurl=wi14257.zscit.top:10253&codeuserid=1&time=1694522938
 打开活动入口，抓包的任意接口cookies中的ysm_uid参数,填入ck。
 单账户填写样式(这里只是样式，不要填这里)
 xyyconfig = [
@@ -96,8 +96,8 @@ xyyconfig = [
 '''
 xkybconfig是星空和元宝的共用参数配置列表，因为是一个平台，所以参数一样
 活动入口,微信打开
-星空阅读阅读：http://mr1692169663544.uznmvev.cn/ox/index.html?mid=XG7QUVEEH
-元宝阅读：http://mr1693542990524.obmxvbv.cn/coin/index.html?mid=RG5RC7LDU
+星空阅读阅读：http://mr1694522619630.onzrxjs.cn/ox/index.html?mid=WU4UDKWTW
+元宝阅读：http://mr1694522538915.ojqxyuo.cn/coin/index.html?mid=3K7UTK2MN
 打开活动入口，抓包的http://u.cocozx.cn/api/ox/info接口的请求体中的un和token参数
 单账户填写样式(这里只是样式，不要填这里)
 xyyconfig = [
